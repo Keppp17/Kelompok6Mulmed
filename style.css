@@ -444,6 +444,9 @@ html{
     align-items: center;
     margin-top: 20px;
 }
+  .nav-buttons a image{
+    border-radius: 50%;
+  }
     /* responsive */
     img, iframe {
   max-width: 100%;
